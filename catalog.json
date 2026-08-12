@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-12T16:42:54.718Z",
+  "version": "2026-08-12T17:08:27.979Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -13,6 +13,7 @@
       "author": "MIgeekRYO",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "aiyintangxiao": {
@@ -27,6 +28,7 @@
       "author": "MIgeekRYO",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "ak47": {
@@ -42,6 +44,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "amtls": {
@@ -57,6 +60,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "asls": {
@@ -72,6 +76,7 @@
       "author": "热心网友",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "awm": {
@@ -86,6 +91,7 @@
       "author": "和平精英",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "axiga": {
@@ -101,6 +107,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "bbby": {
@@ -115,6 +122,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "bgyl": {
@@ -129,6 +137,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "bibilabu": {
@@ -143,6 +152,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "bishi": {
@@ -158,6 +168,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "buqiang": {
@@ -172,6 +183,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "busituteng": {
@@ -186,6 +198,7 @@
       "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "chaxiaomao": {
@@ -200,6 +213,7 @@
       "author": "U149",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "ciallo": {
@@ -214,6 +228,7 @@
       "author": "热心网友",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "citongwoxin": {
@@ -228,6 +243,7 @@
       "author": "天赋",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "cixizhadan": {
@@ -244,6 +260,7 @@
       "author": "神秘猫猫人",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "dagou": {
@@ -259,6 +276,7 @@
       "author": "神秘猫猫人",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "daitu": {
@@ -273,6 +291,7 @@
       "author": "天赋",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "daodun": {
@@ -287,6 +306,7 @@
       "author": "太空人",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "dream": {
@@ -301,6 +321,7 @@
       "author": "Watzehr Fack",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "dushen": {
@@ -318,6 +339,7 @@
       "author": "官方",
       "vibrationDuration": 50,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "fuheihui": {
@@ -332,6 +354,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "gada": {
@@ -346,6 +369,7 @@
       "author": "Teng",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "gangguan": {
@@ -360,6 +384,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "ggdlx": {
@@ -377,6 +402,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "gugugaga": {
@@ -393,6 +419,7 @@
       "author": "郑中基",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "haigongniu": {
@@ -407,6 +434,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "hajimi": {
@@ -422,6 +450,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "heishou": {
@@ -437,6 +466,7 @@
       "author": "zxttl",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "huicheng": {
@@ -451,6 +481,7 @@
       "author": "王者荣耀",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "jian": {
@@ -465,6 +496,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "jiguang": {
@@ -479,6 +511,7 @@
       "author": "官方",
       "vibrationDuration": 50,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "jvfufu": {
@@ -493,6 +526,7 @@
       "author": "U149",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "kai": {
@@ -508,6 +542,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "kangshen": {
@@ -528,6 +563,7 @@
       "author": "cxy",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "kenan": {
@@ -542,6 +578,7 @@
       "author": "官方",
       "vibrationDuration": 50,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "khdxs": {
@@ -556,6 +593,7 @@
       "author": "官方",
       "vibrationDuration": 50,
       "debounceTime": 1000,
+      "playMode": 1,
       "isVip": true
     },
     "kongqijita": {
@@ -570,6 +608,7 @@
       "author": "一心",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "kongqirinai": {
@@ -592,6 +631,7 @@
       "author": "星途",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "kunkun": {
@@ -607,6 +647,7 @@
       "author": "热心网友",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "laonainai": {
@@ -622,6 +663,7 @@
       "author": "mrzkr0927",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "lei-wuzi": {
@@ -637,6 +679,7 @@
       "author": "豆包",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "leitingdw": {
@@ -651,6 +694,7 @@
       "author": "FATE",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "lightsaber": {
@@ -665,6 +709,7 @@
       "author": "官方",
       "vibrationDuration": 50,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "m16a4": {
@@ -679,6 +724,7 @@
       "author": "神秘猫猫人",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "magic": {
@@ -693,6 +739,7 @@
       "author": "官方",
       "vibrationDuration": 50,
       "debounceTime": 3000,
+      "playMode": 1,
       "isVip": true
     },
     "man": {
@@ -708,6 +755,7 @@
       "author": "splay",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "manbo": {
@@ -723,6 +771,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "manboo": {
@@ -738,6 +787,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "mc-anvil": {
@@ -753,6 +803,7 @@
       "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "mc-chest": {
@@ -768,6 +819,7 @@
       "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "mc-eat": {
@@ -783,6 +835,7 @@
       "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "mc-hit": {
@@ -799,6 +852,7 @@
       "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "mc-hit-old": {
@@ -813,6 +867,7 @@
       "author": "世有朝夕",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "mc-villager": {
@@ -830,6 +885,7 @@
       "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "moshujiqiao": {
@@ -845,6 +901,7 @@
       "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "motuo": {
@@ -859,6 +916,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "nailintangxiao": {
@@ -873,6 +931,7 @@
       "author": "MIgeekRYO",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "naiwa": {
@@ -887,6 +946,7 @@
       "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "ning": {
@@ -903,6 +963,7 @@
       "author": "Merryzz",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "oh-my-god": {
@@ -919,6 +980,7 @@
       "author": "U149",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "qianxia": {
@@ -933,6 +995,7 @@
       "author": "SPLAY",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "quannengdzx": {
@@ -949,6 +1012,7 @@
       "author": "装可爱的大肘子",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "quantou": {
@@ -966,6 +1030,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "rabbit-tank": {
@@ -982,6 +1047,7 @@
       "author": "中秋日",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "s1897": {
@@ -996,6 +1062,7 @@
       "author": "和平精英",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "shenluotianzheng": {
@@ -1010,6 +1077,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "shouliudan": {
@@ -1025,6 +1093,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 3000,
+      "playMode": 1,
       "isVip": true
     },
     "sunuo": {
@@ -1039,6 +1108,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 5000,
+      "playMode": 1,
       "isVip": true
     },
     "tomcat-laugh": {
@@ -1054,6 +1124,7 @@
       "author": "世有朝夕",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "tomcat-oh": {
@@ -1068,6 +1139,7 @@
       "author": "世有朝夕",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "toulan": {
@@ -1082,6 +1154,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 3000,
+      "playMode": 1,
       "isVip": true
     },
     "valorant": {
@@ -1100,6 +1173,7 @@
       "author": "残念",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "waga-jp": {
@@ -1114,6 +1188,7 @@
       "author": "维什音Reve",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "waibibabo": {
@@ -1128,6 +1203,7 @@
       "author": "世有朝夕",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "wanxiangtianyin": {
@@ -1142,6 +1218,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "weilongc4": {
@@ -1156,6 +1233,7 @@
       "author": "cily",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "wooden-fish": {
@@ -1170,6 +1248,7 @@
       "author": "官方",
       "vibrationDuration": 50,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "wubiand": {
@@ -1184,6 +1263,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "wula": {
@@ -1198,6 +1278,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "wusaqi": {
@@ -1212,6 +1293,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "wutiaowu": {
@@ -1226,6 +1308,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 5000,
+      "playMode": 1,
       "isVip": true
     },
     "xeggt": {
@@ -1241,6 +1324,7 @@
       "author": "YOUNGKIT",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "xiangzhi": {
@@ -1255,6 +1339,7 @@
       "author": "官方",
       "vibrationDuration": 50,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "xinzhigang": {
@@ -1269,6 +1354,7 @@
       "author": "好饿",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "xiongda-bengzhu": {
@@ -1283,6 +1369,7 @@
       "author": "Teng",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "xiongda-laugh": {
@@ -1297,6 +1384,7 @@
       "author": "lin",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "yiyi": {
@@ -1311,6 +1399,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 5000,
+      "playMode": 1,
       "isVip": true
     },
     "yujie": {
@@ -1325,6 +1414,7 @@
       "author": "MIgeekRYO",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "yylx": {
@@ -1340,6 +1430,7 @@
       "author": "豆包AI生成",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "yztf": {
@@ -1358,6 +1449,7 @@
       "author": "热心网友",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "zaihuoyh": {
@@ -1374,6 +1466,7 @@
       "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "zaiqi": {
@@ -1390,6 +1483,7 @@
       "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "zhangxuef": {
@@ -1406,6 +1500,7 @@
       "author": "神秘猫猫人",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "zhengbang": {
@@ -1420,6 +1515,7 @@
       "author": "官方",
       "vibrationDuration": 50,
       "debounceTime": 1500,
+      "playMode": 1,
       "isVip": true
     },
     "zhuzhil": {
@@ -1434,6 +1530,7 @@
       "author": "豆包AI生成",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     },
     "ziwengt": {
@@ -1448,6 +1545,7 @@
       "author": "新三国",
       "vibrationDuration": 150,
       "debounceTime": 100,
+      "playMode": 1,
       "isVip": true
     }
   }
