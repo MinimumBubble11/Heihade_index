@@ -78,8 +78,12 @@ function validateAudioNaming(files, count) {
   if (files.length !== count) {
     return `音效数不符：dist.txt=${count} 实际文件=${files.length}`
   }
-  if (count === 1 && files[0] && /-audio-\d+/.test(files[0])) {
-    return '单音效应使用 <id>-audio.mp3（无数字后缀）'
+  if (count === 1) {
+    // 单音效：兼容 <id>-audio.mp3 与 COS 旧命名 <id>-audio-1.mp3
+    if (!/^.+?-audio(?:-1)?\.mp3$/.test(files[0] || '')) {
+      return '单音效命名应为 <id>-audio.mp3 或 <id>-audio-1.mp3'
+    }
+    return null
   }
   if (count > 1) {
     for (let i = 0; i < count; i++) {
