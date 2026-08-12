@@ -1,0 +1,61 @@
+# build-catalog.yml — Heihade_index 索引自动生成
+# 触发：每 2 小时定时 + 手动 + 脚本变更
+name: Build Catalog
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # 每 2 小时
+  workflow_dispatch: # 手动触发
+  push:
+    paths:
+      - 'scripts/**' # 脚本变更即时重建
+
+jobs:
+  build-catalog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 允许推回 catalog.json
+    steps:
+      # 1. checkout 索引仓库自身
+      - name: Checkout index repo
+        uses: actions/checkout@v4
+
+      # 2. checkout 音频仓库（跨仓库需 GH_TOKEN）
+      - name: Checkout Heihade_music
+        uses: actions/checkout@v4
+        with:
+          repository: MinimumBubble11/Heihade_music
+          path: music
+          token: ${{ secrets.GH_TOKEN }}
+
+      # 3. checkout 图片仓库（跨仓库需 GH_TOKEN）
+      - name: Checkout Heihade_img
+        uses: actions/checkout@v4
+        with:
+          repository: MinimumBubble11/Heihade_img
+          path: img
+          token: ${{ secrets.GH_TOKEN }}
+
+      # 4. Node 环境
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      # 5. 生成 catalog.json
+      - name: Build catalog
+        run: node scripts/build-catalog.js ./music ./img ./catalog.json
+
+      # 6. 有变更则提交并推回索引仓库
+      - name: Commit and push catalog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog.json
+          if git diff --cached --quiet; then
+            echo "catalog.json 无变化，跳过提交"
+          else
+            git commit -m "build: update catalog $(date -u +%Y%m%d-%H%M)"
+            git push origin HEAD:main
+            echo "✅ 已提交并推送 catalog.json"
+          fi
