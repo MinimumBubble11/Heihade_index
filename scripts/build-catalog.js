@@ -34,6 +34,12 @@ function parseDist(content) {
   const count = parseInt(lines[1], 10)
   let vibrationDuration = DEFAULT_VIBRATION
   let debounceTime = DEFAULT_DEBOUNCE
+  // 行7：播放模式（可选）1=轮播(1,2) 2=Combo(1,1,1,2)
+  let playMode = 1
+  if (lines[6]) {
+    const pm = parseInt(lines[6], 10)
+    if (pm === 2) playMode = 2
+  }
   if (lines[5]) {
     const parts = lines[5].split(',')
     const v = parseInt(parts[0], 10)
@@ -48,7 +54,8 @@ function parseDist(content) {
     category: lines[3] || DEFAULT_CATEGORY,
     author: lines[4] || DEFAULT_AUTHOR,
     vibrationDuration: vibrationDuration,
-    debounceTime: debounceTime
+    debounceTime: debounceTime,
+    playMode: playMode
   }
 }
 
@@ -166,6 +173,7 @@ function main() {
       author: meta.author,
       vibrationDuration: meta.vibrationDuration,
       debounceTime: meta.debounceTime,
+      playMode: meta.playMode,
       isVip: true
     }
   })
