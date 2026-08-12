@@ -1,6 +1,34 @@
 {
-  "version": "2026-08-12T11:41:45.538Z",
+  "version": "2026-08-12T11:48:06.536Z",
   "weapons": {
+    "aiyintangku-k9de": {
+      "index": 0,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/aiyintangku-k9de/aiyintangku-k9de-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/aiyintangku-k9de/aiyintangku-k9de-audio-1.mp3"
+      ],
+      "name": "爱音糖哭",
+      "description": "一天不听心刺挠",
+      "category": "热梗",
+      "author": "MIgeekRYO",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "aiyintangxiao-2f4e": {
+      "index": 1,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/aiyintangxiao-2f4e/aiyintangxiao-2f4e-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/aiyintangxiao-2f4e/aiyintangxiao-2f4e-audio-1.mp3"
+      ],
+      "name": "爱因糖笑",
+      "description": "一天不听心痒痒的",
+      "category": "热梗",
+      "author": "MIgeekRYO",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
     "amtls": {
       "index": 2,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/amtls/amtls-icon.png",
@@ -11,6 +39,79 @@
       "description": "释放黑色火焰燃烧目标直至燃尽",
       "category": "动漫",
       "author": "官方",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "asls-ro8t": {
+      "index": 3,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/asls-ro8t/asls-ro8t-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/asls-ro8t/asls-ro8t-audio-1.mp3",
+        "https://MinimumBubble11.github.io/Heihade_music/asls-ro8t/asls-ro8t-audio-2.mp3"
+      ],
+      "name": "爱上雷神",
+      "description": "瞬间就爱上雷神",
+      "category": "动漫",
+      "author": "热心网友",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "awm-1tsf": {
+      "index": 4,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/awm-1tsf/awm-1tsf-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/awm-1tsf/awm-1tsf-audio-1.mp3",
+        "https://MinimumBubble11.github.io/Heihade_music/awm-1tsf/awm-1tsf-audio-2.mp3"
+      ],
+      "name": "精密国际awm狙击步枪",
+      "description": "精准无需多言",
+      "category": "武器",
+      "author": "神秘猫猫人",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "axiga-r1x8": {
+      "index": 5,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/axiga-r1x8/axiga-r1x8-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/axiga-r1x8/axiga-r1x8-audio-1.mp3",
+        "https://MinimumBubble11.github.io/Heihade_music/axiga-r1x8/axiga-r1x8-audio-2.mp3"
+      ],
+      "name": "阿西噶",
+      "description": "阿西噶~哈压库奶龙~",
+      "category": "热梗",
+      "author": "官方",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "bbby-diaz": {
+      "index": 6,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/bbby-diaz/bbby-diaz-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/bbby-diaz/bbby-diaz-audio-1.mp3"
+      ],
+      "name": "巴巴博一",
+      "description": "粑粑博弈！",
+      "category": "搞怪",
+      "author": "世有朝夕",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "bibilabu-w1of": {
+      "index": 7,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/bibilabu-w1of/bibilabu-w1of-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/bibilabu-w1of/bibilabu-w1of-audio-1.mp3"
+      ],
+      "name": "比比拉布",
+      "description": "比比比比比比拉布！",
+      "category": "搞怪",
+      "author": "世有朝夕",
       "vibrationDuration": 150,
       "debounceTime": 100,
       "isVip": true
@@ -29,6 +130,48 @@
       "debounceTime": 100,
       "isVip": true
     },
+    "chaoyueshengsi-67ao": {
+      "index": 9,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/chaoyueshengsi-67ao/chaoyueshengsi-67ao-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/chaoyueshengsi-67ao/chaoyueshengsi-67ao-audio-1.mp3"
+      ],
+      "name": "不死图腾",
+      "description": "超越生死",
+      "category": "武器",
+      "author": "桦树abc",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "chaxiaomao-nfx1": {
+      "index": 10,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/chaxiaomao-nfx1/chaxiaomao-nfx1-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/chaxiaomao-nfx1/chaxiaomao-nfx1-audio-1.mp3"
+      ],
+      "name": "嘲笑猫",
+      "description": "嘲笑猫",
+      "category": "热梗",
+      "author": "U149",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "ciallo-rps7": {
+      "index": 11,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/ciallo-rps7/ciallo-rps7-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/ciallo-rps7/ciallo-rps7-audio-1.mp3"
+      ],
+      "name": "ciallo",
+      "description": "",
+      "category": "动漫",
+      "author": "热心网友",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
     "cixizhadan-8qp7": {
       "index": 12,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/cixizhadan-8qp7/cixizhadan-8qp7-icon.png",
@@ -41,6 +184,63 @@
       "description": "我受过专业训练，能上天的那种",
       "category": "武器",
       "author": "神秘猫猫人",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "dagou-hm59": {
+      "index": 13,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/dagou-hm59/dagou-hm59-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/dagou-hm59/dagou-hm59-audio-1.mp3",
+        "https://MinimumBubble11.github.io/Heihade_music/dagou-hm59/dagou-hm59-audio-2.mp3"
+      ],
+      "name": "大狗叫叫叫",
+      "description": "大狗大狗叫叫叫",
+      "category": "热梗",
+      "author": "神秘猫猫人",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "daipaibulaotie-v5lb": {
+      "index": 14,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/daipaibulaotie-v5lb/daipaibulaotie-v5lb-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/daipaibulaotie-v5lb/daipaibulaotie-v5lb-audio-1.mp3"
+      ],
+      "name": "带派不老铁",
+      "description": "太带派了",
+      "category": "动漫",
+      "author": "MIgeekRYO",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "daodun-3iuw": {
+      "index": 15,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/daodun-3iuw/daodun-3iuw-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/daodun-3iuw/daodun-3iuw-audio-1.mp3"
+      ],
+      "name": "刀盾",
+      "description": "我的刀盾",
+      "category": "热梗",
+      "author": "太空人",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "dream-ao5h": {
+      "index": 16,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/dream-ao5h/dream-ao5h-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/dream-ao5h/dream-ao5h-audio-1.mp3"
+      ],
+      "name": "我相信我的梦想",
+      "description": "I believe in my dream",
+      "category": "热梗",
+      "author": "Watzehr Fack",
       "vibrationDuration": 150,
       "debounceTime": 100,
       "isVip": true
@@ -92,6 +292,21 @@
       "debounceTime": 100,
       "isVip": true
     },
+    "hajimi-4zdk": {
+      "index": 20,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/hajimi-4zdk/hajimi-4zdk-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/hajimi-4zdk/hajimi-4zdk-audio-1.mp3",
+        "https://MinimumBubble11.github.io/Heihade_music/hajimi-4zdk/hajimi-4zdk-audio-2.mp3"
+      ],
+      "name": "哈基米",
+      "description": "哈基米~",
+      "category": "热梗",
+      "author": "官方",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
     "jiguang": {
       "index": 21,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/jiguang/jiguang-icon.png",
@@ -103,6 +318,20 @@
       "category": "武器",
       "author": "官方",
       "vibrationDuration": 50,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "jvfufu-zchj": {
+      "index": 22,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/jvfufu-zchj/jvfufu-zchj-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/jvfufu-zchj/jvfufu-zchj-audio-1.mp3"
+      ],
+      "name": "橘福福",
+      "description": "橘福福是啥猫",
+      "category": "动漫",
+      "author": "U149",
+      "vibrationDuration": 150,
       "debounceTime": 100,
       "isVip": true
     },
@@ -151,6 +380,20 @@
       "debounceTime": 1000,
       "isVip": true
     },
+    "kongqijita-vey3": {
+      "index": 26,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/kongqijita-vey3/kongqijita-vey3-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/kongqijita-vey3/kongqijita-vey3-audio-1.mp3"
+      ],
+      "name": "空气吉他",
+      "description": "晴天吉他音频",
+      "category": "手势",
+      "author": "一心",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
     "kongqirinai-mygk": {
       "index": 27,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/kongqirinai-mygk/kongqirinai-mygk-icon.png",
@@ -169,6 +412,36 @@
       "description": "Blue Archive",
       "category": "动漫",
       "author": "星途",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "kunkun-bub7": {
+      "index": 28,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/kunkun-bub7/kunkun-bub7-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/kunkun-bub7/kunkun-bub7-audio-1.mp3",
+        "https://MinimumBubble11.github.io/Heihade_music/kunkun-bub7/kunkun-bub7-audio-2.mp3"
+      ],
+      "name": "坤哥",
+      "description": "鸡你太美～",
+      "category": "动漫",
+      "author": "热心网友",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "laodazhouji-00wh": {
+      "index": 29,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/laodazhouji-00wh/laodazhouji-00wh-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/laodazhouji-00wh/laodazhouji-00wh-audio-1.mp3",
+        "https://MinimumBubble11.github.io/Heihade_music/laodazhouji-00wh/laodazhouji-00wh-audio-2.mp3"
+      ],
+      "name": "牢大肘击",
+      "description": "科比布莱恩特",
+      "category": "热梗",
+      "author": "splay",
       "vibrationDuration": 150,
       "debounceTime": 100,
       "isVip": true
@@ -202,6 +475,20 @@
       "debounceTime": 100,
       "isVip": true
     },
+    "m16a4-wmjw": {
+      "index": 32,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/m16a4-wmjw/m16a4-wmjw-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/m16a4-wmjw/m16a4-wmjw-audio-1.mp3"
+      ],
+      "name": "柯尔特m16a4突击步枪",
+      "description": "长官 我的M16a4又生锈了",
+      "category": "动漫",
+      "author": "神秘猫猫人",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
     "magic-a": {
       "index": 33,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/magic-a/magic-a-icon.png",
@@ -216,6 +503,78 @@
       "debounceTime": 3000,
       "isVip": true
     },
+    "manbo-c16s": {
+      "index": 34,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/manbo-c16s/manbo-c16s-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/manbo-c16s/manbo-c16s-audio-1.mp3",
+        "https://MinimumBubble11.github.io/Heihade_music/manbo-c16s/manbo-c16s-audio-2.mp3"
+      ],
+      "name": "曼波",
+      "description": "曼波~哦耶~",
+      "category": "热梗",
+      "author": "官方",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "mc-y59c": {
+      "index": 35,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-y59c/mc-y59c-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/mc-y59c/mc-y59c-audio-1.mp3"
+      ],
+      "name": "MC进食",
+      "description": "还记得你吃了多少面包吗？",
+      "category": "搞怪",
+      "author": "世有朝夕",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "mc3-6xot": {
+      "index": 36,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc3-6xot/mc3-6xot-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/mc3-6xot/mc3-6xot-audio-1.mp3"
+      ],
+      "name": "痛击村民",
+      "description": "日常折磨村民～",
+      "category": "动漫",
+      "author": "世有朝夕",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "mc4-pn92": {
+      "index": 37,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc4-pn92/mc4-pn92-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/mc4-pn92/mc4-pn92-audio-1.mp3"
+      ],
+      "name": "受伤的史蒂夫",
+      "description": "痛击“史蒂夫”吧！",
+      "category": "动漫",
+      "author": "世有朝夕",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "moshujiqiao-6kgy": {
+      "index": 38,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/moshujiqiao-6kgy/moshujiqiao-6kgy-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/moshujiqiao-6kgy/moshujiqiao-6kgy-audio-1.mp3",
+        "https://MinimumBubble11.github.io/Heihade_music/moshujiqiao-6kgy/moshujiqiao-6kgy-audio-2.mp3"
+      ],
+      "name": "魔术技巧",
+      "description": "世界的真理，我已解明！",
+      "category": "动漫",
+      "author": "神秘猫猫人",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
     "motuo": {
       "index": 39,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/motuo/motuo-icon.png",
@@ -226,6 +585,34 @@
       "description": "最帅的摩托车，感受发动机的轰鸣",
       "category": "搞怪",
       "author": "官方",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "nailintangxiao-q6ek": {
+      "index": 40,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/nailintangxiao-q6ek/nailintangxiao-q6ek-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/nailintangxiao-q6ek/nailintangxiao-q6ek-audio-1.mp3"
+      ],
+      "name": "琳奈糖笑",
+      "description": "嘿嘿嘿呀~",
+      "category": "动漫",
+      "author": "MIgeekRYO",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "naiwa-gah9": {
+      "index": 41,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/naiwa-gah9/naiwa-gah9-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/naiwa-gah9/naiwa-gah9-audio-1.mp3"
+      ],
+      "name": "奶蛙",
+      "description": "可爱的奶蛙笑声",
+      "category": "搞怪",
+      "author": "张洪萍",
       "vibrationDuration": 150,
       "debounceTime": 100,
       "isVip": true
@@ -262,6 +649,20 @@
       "debounceTime": 100,
       "isVip": true
     },
+    "qianxia-9l5q": {
+      "index": 44,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/qianxia-9l5q/qianxia-9l5q-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/qianxia-9l5q/qianxia-9l5q-audio-1.mp3"
+      ],
+      "name": "千夏",
+      "description": "电死萝莉控",
+      "category": "动漫",
+      "author": "SPLAY",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
     "quannengdongzx-2k4r": {
       "index": 45,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/quannengdongzx-2k4r/quannengdongzx-2k4r-icon.png",
@@ -290,6 +691,21 @@
       "description": "那么开始实验吧",
       "category": "动漫",
       "author": "中秋日",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "shafu-9f4v": {
+      "index": 47,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/shafu-9f4v/shafu-9f4v-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/shafu-9f4v/shafu-9f4v-audio-1.mp3",
+        "https://MinimumBubble11.github.io/Heihade_music/shafu-9f4v/shafu-9f4v-audio-2.mp3"
+      ],
+      "name": "友商是傻福",
+      "description": "生死看淡，不服就干嘛",
+      "category": "热梗",
+      "author": "神秘猫猫人",
       "vibrationDuration": 150,
       "debounceTime": 100,
       "isVip": true
@@ -336,6 +752,20 @@
       "debounceTime": 5000,
       "isVip": true
     },
+    "tomcat-1imm": {
+      "index": 51,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/tomcat-1imm/tomcat-1imm-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/tomcat-1imm/tomcat-1imm-audio-1.mp3"
+      ],
+      "name": "汤姆猫的惨叫",
+      "description": "嗷↗嗷↘嗷↗嗷↘",
+      "category": "动漫",
+      "author": "世有朝夕",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
     "tomcat2-kew2": {
       "index": 52,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/tomcat2-kew2/tomcat2-kew2-icon.png",
@@ -365,6 +795,20 @@
       "debounceTime": 3000,
       "isVip": true
     },
+    "waibibabu-50v0": {
+      "index": 54,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/waibibabu-50v0/waibibabu-50v0-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/waibibabu-50v0/waibibabu-50v0-audio-1.mp3"
+      ],
+      "name": "歪比巴卜",
+      "description": "我要金坷垃！",
+      "category": "热梗",
+      "author": "世有朝夕",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
     "wanxiangtianyin": {
       "index": 55,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/wanxiangtianyin/wanxiangtianyin-icon.png",
@@ -392,6 +836,20 @@
       "description": "一有动静，我就",
       "category": "热梗",
       "author": "维什音Reve",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "wlc4-tg2d": {
+      "index": 57,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/wlc4-tg2d/wlc4-tg2d-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/wlc4-tg2d/wlc4-tg2d-audio-1.mp3"
+      ],
+      "name": "威龙c4",
+      "description": "磁吸炸弹投出！",
+      "category": "武器",
+      "author": "cily",
       "vibrationDuration": 150,
       "debounceTime": 100,
       "isVip": true
@@ -499,6 +957,34 @@
       "debounceTime": 100,
       "isVip": true
     },
+    "xinzhigang-qteu": {
+      "index": 65,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xinzhigang-qteu/xinzhigang-qteu-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/xinzhigang-qteu/xinzhigang-qteu-audio-1.mp3"
+      ],
+      "name": "心之钢",
+      "description": "让我钢一下子",
+      "category": "热梗",
+      "author": "好饿",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
+    "xiongda-x7r7": {
+      "index": 66,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xiongda-x7r7/xiongda-x7r7-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/xiongda-x7r7/xiongda-x7r7-audio-1.mp3"
+      ],
+      "name": "熊大",
+      "description": "",
+      "category": "搞怪",
+      "author": "lin",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "isVip": true
+    },
     "yiyi": {
       "index": 67,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yiyi/yiyi-icon.png",
@@ -511,6 +997,20 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 5000,
+      "isVip": true
+    },
+    "yylx-aplo": {
+      "index": 68,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yylx-aplo/yylx-aplo-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/yylx-aplo/yylx-aplo-audio-1.mp3"
+      ],
+      "name": "遥遥领先",
+      "description": "遥遥领先",
+      "category": "热梗",
+      "author": "清水",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
       "isVip": true
     },
     "yztf-ohse": {
@@ -558,6 +1058,20 @@
       "author": "官方",
       "vibrationDuration": 50,
       "debounceTime": 1500,
+      "isVip": true
+    },
+    "zhuzhil-8w4s": {
+      "index": 72,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhuzhil-8w4s/zhuzhil-8w4s-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/zhuzhil-8w4s/zhuzhil-8w4s-audio-1.mp3"
+      ],
+      "name": "竹知了",
+      "description": "一千万元以内最好的玩具",
+      "category": "热梗",
+      "author": "官方",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
       "isVip": true
     },
     "zhyh-39gv": {
