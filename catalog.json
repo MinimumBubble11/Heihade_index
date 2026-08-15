@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-15T04:16:47.444Z",
+  "version": "2026-08-15T05:16:51.111Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -450,7 +450,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "heishou": {
