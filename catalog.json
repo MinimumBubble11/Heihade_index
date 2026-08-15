@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-15T10:09:58.361Z",
+  "version": "2026-08-15T12:11:34.901Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -76,7 +76,7 @@
       "author": "热心网友",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "awm": {
@@ -85,7 +85,7 @@
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/awm/awm-audio.mp3"
       ],
-      "name": "精密国际awm狙击步枪",
+      "name": "awm狙击步枪",
       "description": "精准无需多言",
       "category": "武器",
       "author": "和平精英",
@@ -107,7 +107,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "bbby": {
@@ -168,7 +168,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "buqiang": {
@@ -183,7 +183,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "busituteng": {
@@ -276,7 +276,7 @@
       "author": "神秘猫猫人",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "daitu": {
@@ -466,7 +466,7 @@
       "author": "zxttl",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "huicheng": {
@@ -492,7 +492,7 @@
       ],
       "name": "剑",
       "description": "剑气！",
-      "category": "other",
+      "category": "武器",
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
@@ -538,7 +538,7 @@
       ],
       "name": "开！",
       "description": "将大局逆转吧！",
-      "category": "游戏",
+      "category": "热梗",
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
@@ -647,7 +647,7 @@
       "author": "热心网友",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "laonainai": {
@@ -1026,7 +1026,7 @@
       ],
       "name": "拳击",
       "description": "开始拳击吧！",
-      "category": "other",
+      "category": "武器",
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
