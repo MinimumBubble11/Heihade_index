@@ -1,5 +1,5 @@
 /**
- * build-catalog.js — Heihade_index 索引生成脚本
+ * build-catalog.js — Heihade_index 索引生成脚本（v20260814：新增 4 音效后触发重建）
  *
  * 功能：扫描音频仓库(Heihade_music)与图片仓库(Heihade_img)的 checkout 目录，
  *       解析各武器 <id>/dist.txt，校验资源一致性，生成 catalog.json。
