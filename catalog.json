@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-27T14:32:04.789Z",
+  "version": "2026-08-27T14:36:09.997Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -320,7 +320,7 @@
       ],
       "name": "等离子大王",
       "description": "等离子大王",
-      "category": "热梗",
+      "category": "动漫",
       "author": "热心用户",
       "vibrationDuration": 150,
       "debounceTime": 100,
