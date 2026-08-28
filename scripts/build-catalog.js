@@ -1,5 +1,5 @@
 /**
- * build-catalog.js — Heihade_index 索引生成脚本（v20260827：等离子大王分类改动漫后二次触发）
+ * build-catalog.js — Heihade_index 索引生成脚本（v20260828：新增 7 MC 音效 + MC 作者改 Mojang 后触发）
  *
  * 功能：扫描音频仓库(Heihade_music)与图片仓库(Heihade_img)的 checkout 目录，
  *       解析各武器 <id>/dist.txt，校验资源一致性，生成 catalog.json。
