@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-29T04:24:42.607Z",
+  "version": "2026-08-29T04:58:03.972Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -790,7 +790,7 @@
       "author": "splay",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "manbo": {
@@ -806,7 +806,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "manboo": {
@@ -822,7 +822,7 @@
       "author": "官方",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "mc-anvil": {
@@ -1048,7 +1048,7 @@
       "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
-      "playMode": 1,
+      "playMode": 2,
       "isVip": true
     },
     "motuo": {
@@ -1121,7 +1121,7 @@
         "https://MinimumBubble11.github.io/Heihade_music/oh-my-god/oh-my-god-audio-2.mp3",
         "https://MinimumBubble11.github.io/Heihade_music/oh-my-god/oh-my-god-audio-3.mp3"
       ],
-      "name": "Oh my god",
+      "name": "乌梅干",
       "description": "乌梅干",
       "category": "动漫",
       "author": "U149",
