@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-29T10:57:42.470Z",
+  "version": "2026-08-29T10:59:56.665Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -14,7 +14,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "aiyintangxiao": {
       "index": 1,
@@ -29,7 +29,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "ak47": {
       "index": 2,
@@ -45,7 +45,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "amtls": {
       "index": 3,
@@ -61,7 +61,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "anyu": {
       "index": 4,
@@ -82,7 +82,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "asls": {
       "index": 5,
@@ -98,7 +98,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "awm": {
       "index": 6,
@@ -113,7 +113,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "axiga": {
       "index": 7,
@@ -129,7 +129,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "bbby": {
       "index": 8,
@@ -144,7 +144,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "bgyl": {
       "index": 9,
@@ -159,7 +159,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "bibilabu": {
       "index": 10,
@@ -174,7 +174,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "bishi": {
       "index": 11,
@@ -190,7 +190,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "buqiang": {
       "index": 12,
@@ -205,7 +205,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "busituteng": {
       "index": 13,
@@ -220,7 +220,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "chaxiaomao": {
       "index": 14,
@@ -235,7 +235,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "ciallo": {
       "index": 15,
@@ -250,7 +250,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "citongwoxin": {
       "index": 16,
@@ -265,7 +265,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "cixizhadan": {
       "index": 17,
@@ -282,7 +282,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "dagou": {
       "index": 18,
@@ -298,7 +298,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "daitu": {
       "index": 19,
@@ -313,7 +313,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "daodun": {
       "index": 20,
@@ -328,7 +328,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "denglizidawang": {
       "index": 21,
@@ -346,7 +346,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "dream": {
       "index": 22,
@@ -361,7 +361,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "dushen": {
       "index": 23,
@@ -379,7 +379,7 @@
       "vibrationDuration": 50,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "fuheihui": {
       "index": 24,
@@ -394,7 +394,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "gada": {
       "index": 25,
@@ -409,7 +409,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "gangguan": {
       "index": 26,
@@ -424,7 +424,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "ggdlx": {
       "index": 27,
@@ -442,7 +442,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "gugugaga": {
       "index": 28,
@@ -459,7 +459,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "haigongniu": {
       "index": 29,
@@ -474,7 +474,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "hajimi": {
       "index": 30,
@@ -490,7 +490,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "heishou": {
       "index": 31,
@@ -506,7 +506,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "huicheng": {
       "index": 32,
@@ -521,7 +521,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "jian": {
       "index": 33,
@@ -536,7 +536,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "jiguang": {
       "index": 34,
@@ -551,7 +551,7 @@
       "vibrationDuration": 50,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "jvfufu": {
       "index": 35,
@@ -566,7 +566,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "kai": {
       "index": 36,
@@ -582,7 +582,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "kangshen": {
       "index": 37,
@@ -603,7 +603,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "kenan": {
       "index": 38,
@@ -618,7 +618,7 @@
       "vibrationDuration": 50,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "khdxs": {
       "index": 39,
@@ -633,7 +633,7 @@
       "vibrationDuration": 50,
       "debounceTime": 1000,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "kongcheng": {
       "index": 40,
@@ -650,7 +650,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "kongqijita": {
       "index": 41,
@@ -665,7 +665,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "kongqirinai": {
       "index": 42,
@@ -688,7 +688,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "kunkun": {
       "index": 43,
@@ -704,7 +704,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "laonainai": {
       "index": 44,
@@ -720,7 +720,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "lei-wuzi": {
       "index": 45,
@@ -736,7 +736,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "leitingdw": {
       "index": 46,
@@ -751,7 +751,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "lightsaber": {
       "index": 47,
@@ -766,7 +766,7 @@
       "vibrationDuration": 50,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "m16a4": {
       "index": 48,
@@ -781,7 +781,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "magic": {
       "index": 49,
@@ -796,7 +796,7 @@
       "vibrationDuration": 50,
       "debounceTime": 3000,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "man": {
       "index": 50,
@@ -812,7 +812,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "manbo": {
       "index": 51,
@@ -828,7 +828,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "manboo": {
       "index": 52,
@@ -844,7 +844,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "mc-anvil": {
       "index": 53,
@@ -860,7 +860,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "mc-bottle": {
       "index": 54,
@@ -876,7 +876,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "mc-chest": {
       "index": 55,
@@ -892,7 +892,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "mc-door": {
       "index": 56,
@@ -908,7 +908,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "mc-eat": {
       "index": 57,
@@ -924,7 +924,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "mc-fence-gate": {
       "index": 58,
@@ -940,7 +940,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "mc-hit": {
       "index": 59,
@@ -957,7 +957,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "mc-hit-old": {
       "index": 60,
@@ -972,7 +972,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "mc-shulker-box": {
       "index": 61,
@@ -988,7 +988,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "mc-spear": {
       "index": 62,
@@ -1004,7 +1004,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "mc-tnt": {
       "index": 63,
@@ -1020,7 +1020,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "mc-trapdoor": {
       "index": 64,
@@ -1036,7 +1036,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "mc-villager": {
       "index": 65,
@@ -1054,7 +1054,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "moshujiqiao": {
       "index": 66,
@@ -1070,7 +1070,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 2,
-      "isVip": true
+      "isVip": false
     },
     "motuo": {
       "index": 67,
@@ -1085,7 +1085,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "nailintangxiao": {
       "index": 68,
@@ -1100,7 +1100,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "naiwa": {
       "index": 69,
@@ -1115,7 +1115,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "ning": {
       "index": 70,
@@ -1132,7 +1132,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "oh-my-god": {
       "index": 71,
@@ -1149,7 +1149,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "qianxia": {
       "index": 72,
@@ -1164,7 +1164,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "quannengdzx": {
       "index": 73,
@@ -1181,7 +1181,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "quantou": {
       "index": 74,
@@ -1199,7 +1199,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "rabbit-tank": {
       "index": 75,
@@ -1216,7 +1216,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "s1897": {
       "index": 76,
@@ -1231,7 +1231,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "shenluotianzheng": {
       "index": 77,
@@ -1246,7 +1246,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "shouliudan": {
       "index": 78,
@@ -1262,7 +1262,7 @@
       "vibrationDuration": 150,
       "debounceTime": 3000,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "sunuo": {
       "index": 79,
@@ -1277,7 +1277,7 @@
       "vibrationDuration": 150,
       "debounceTime": 5000,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "tomcat-laugh": {
       "index": 80,
@@ -1293,7 +1293,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "tomcat-oh": {
       "index": 81,
@@ -1308,7 +1308,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "toulan": {
       "index": 82,
@@ -1323,7 +1323,7 @@
       "vibrationDuration": 150,
       "debounceTime": 3000,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "valorant": {
       "index": 83,
@@ -1342,7 +1342,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "waga-jp": {
       "index": 84,
@@ -1357,7 +1357,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "waibibabo": {
       "index": 85,
@@ -1372,7 +1372,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "wanxiangtianyin": {
       "index": 86,
@@ -1387,7 +1387,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "weilongc4": {
       "index": 87,
@@ -1402,7 +1402,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "wooden-fish": {
       "index": 88,
@@ -1417,7 +1417,7 @@
       "vibrationDuration": 50,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "wubiand": {
       "index": 89,
@@ -1432,7 +1432,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "wula": {
       "index": 90,
@@ -1447,7 +1447,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "wusaqi": {
       "index": 91,
@@ -1462,7 +1462,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "wutiaowu": {
       "index": 92,
@@ -1477,7 +1477,7 @@
       "vibrationDuration": 150,
       "debounceTime": 5000,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "xeggt": {
       "index": 93,
@@ -1493,7 +1493,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "xiangzhi": {
       "index": 94,
@@ -1508,7 +1508,7 @@
       "vibrationDuration": 50,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "xinzhigang": {
       "index": 95,
@@ -1523,7 +1523,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "xiongda-bengzhu": {
       "index": 96,
@@ -1538,7 +1538,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "xiongda-laugh": {
       "index": 97,
@@ -1553,7 +1553,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "yiyi": {
       "index": 98,
@@ -1568,7 +1568,7 @@
       "vibrationDuration": 150,
       "debounceTime": 5000,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "yujie": {
       "index": 99,
@@ -1583,7 +1583,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "yylx": {
       "index": 100,
@@ -1599,7 +1599,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "yztf": {
       "index": 101,
@@ -1618,7 +1618,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "zaihuoyh": {
       "index": 102,
@@ -1635,7 +1635,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "zaiqi": {
       "index": 103,
@@ -1652,7 +1652,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "zhangxuef": {
       "index": 104,
@@ -1669,7 +1669,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "zhemehaodec": {
       "index": 105,
@@ -1685,7 +1685,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "zhencha": {
       "index": 106,
@@ -1704,7 +1704,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "zhengbang": {
       "index": 107,
@@ -1719,7 +1719,7 @@
       "vibrationDuration": 50,
       "debounceTime": 1500,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "zhuzhil": {
       "index": 108,
@@ -1734,7 +1734,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     },
     "ziwengt": {
       "index": 109,
@@ -1749,7 +1749,7 @@
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
-      "isVip": true
+      "isVip": false
     }
   }
 }
