@@ -174,7 +174,7 @@ function main() {
       vibrationDuration: meta.vibrationDuration,
       debounceTime: meta.debounceTime,
       playMode: meta.playMode,
-      isVip: true
+      isVip: false
     }
   })
 
