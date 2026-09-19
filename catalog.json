@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19T02:48:51.621Z",
+  "version": "2026-09-19T03:29:36.577Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -1021,7 +1021,7 @@
       "name": "MC不死图腾",
       "description": "超越生死",
       "category": "游戏",
-      "author": "桦树abc",
+      "author": "Mojang",
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
