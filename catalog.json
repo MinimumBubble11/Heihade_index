@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19T02:17:06.906Z",
+  "version": "2026-09-19T02:47:49.265Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -213,7 +213,7 @@
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/busituteng/busitutrng-audio-1.mp3"
       ],
-      "name": "不死图腾",
+      "name": "MC不死图腾",
       "description": "超越生死",
       "category": "游戏",
       "author": "桦树abc",
@@ -338,7 +338,7 @@
       ],
       "name": "刀盾",
       "description": "我的刀盾",
-      "category": "战斗",
+      "category": "抽象",
       "author": "太空人",
       "vibrationDuration": 150,
       "debounceTime": 100,
