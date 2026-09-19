@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19T01:47:22.567Z",
+  "version": "2026-09-19T02:01:50.392Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -1575,8 +1575,23 @@
       "playMode": 1,
       "isVip": false
     },
-    "yiyi": {
+    "yingjichangkong": {
       "index": 99,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yingjichangkong/yingjichangkong-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/yingjichangkong/yingjichangkong-audio-1.mp3"
+      ],
+      "name": "鹰击长空",
+      "description": "用力划破长空吧！",
+      "category": "武器",
+      "author": "热心用户",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "playMode": 1,
+      "isVip": false
+    },
+    "yiyi": {
+      "index": 100,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yiyi/yiyi-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yiyi/yiyi-audio-1.mp3"
@@ -1591,7 +1606,7 @@
       "isVip": false
     },
     "yujie": {
-      "index": 100,
+      "index": 101,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yujie/yujie-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yujie/yujie-audio-1.mp3"
@@ -1606,7 +1621,7 @@
       "isVip": false
     },
     "yztf": {
-      "index": 101,
+      "index": 102,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yztf/yztf-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yztf/yztf-audio-1.mp3",
@@ -1625,7 +1640,7 @@
       "isVip": false
     },
     "zaihuoyh": {
-      "index": 102,
+      "index": 103,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zaihuoyh/zaihuoyh-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zaihuoyh/zaihuoyh-audio-1.mp3",
@@ -1642,7 +1657,7 @@
       "isVip": false
     },
     "zaiqi": {
-      "index": 103,
+      "index": 104,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zaiqi/zaiqi-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zaiqi/zaiqi-audio-1.mp3",
@@ -1659,7 +1674,7 @@
       "isVip": false
     },
     "zhangxuef": {
-      "index": 104,
+      "index": 105,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhangxuef/zhangxuef-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhangxuef/zhangxuef-audio-1.mp3",
@@ -1676,7 +1691,7 @@
       "isVip": false
     },
     "zhemehaodec": {
-      "index": 105,
+      "index": 106,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhemehaodec/zhemehaodec-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhemehaodec/zhemehaodec-audio-1.mp3",
@@ -1692,7 +1707,7 @@
       "isVip": false
     },
     "zhencha": {
-      "index": 106,
+      "index": 107,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhencha/zhencha-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhencha/zhencha-audio-1.mp3",
@@ -1711,7 +1726,7 @@
       "isVip": false
     },
     "zhengbang": {
-      "index": 107,
+      "index": 108,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhengbang/zhengbang-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhengbang/zhengbang-audio-1.mp3"
@@ -1726,7 +1741,7 @@
       "isVip": false
     },
     "zhuzhil": {
-      "index": 108,
+      "index": 109,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhuzhil/zhuzhil-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhuzhil/zhuzhil-audio-1.mp3"
@@ -1741,7 +1756,7 @@
       "isVip": false
     },
     "ziwengt": {
-      "index": 109,
+      "index": 110,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/ziwengt/ziwengt-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/ziwengt/ziwengt-audio-1.mp3"
