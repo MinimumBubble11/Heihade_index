@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19T02:47:49.265Z",
+  "version": "2026-09-19T02:48:51.621Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -207,23 +207,8 @@
       "playMode": 2,
       "isVip": false
     },
-    "busituteng": {
-      "index": 13,
-      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/busituteng/busituteng-icon.png",
-      "audioUrls": [
-        "https://MinimumBubble11.github.io/Heihade_music/busituteng/busitutrng-audio-1.mp3"
-      ],
-      "name": "MC不死图腾",
-      "description": "超越生死",
-      "category": "游戏",
-      "author": "桦树abc",
-      "vibrationDuration": 150,
-      "debounceTime": 100,
-      "playMode": 1,
-      "isVip": false
-    },
     "chaxiaomao": {
-      "index": 14,
+      "index": 13,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/chaxiaomao/chaxiaomao-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/chaxiaomao/chaxiaomao-audio-1.mp3"
@@ -238,7 +223,7 @@
       "isVip": false
     },
     "ciallo": {
-      "index": 15,
+      "index": 14,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/ciallo/ciallo-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/ciallo/ciallo-audio-1.mp3"
@@ -253,7 +238,7 @@
       "isVip": false
     },
     "citongwoxin": {
-      "index": 16,
+      "index": 15,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/citongwoxin/citongwoxin-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/citongwoxin/citongwoxin-1-audio-1.mp3"
@@ -268,7 +253,7 @@
       "isVip": false
     },
     "cixizhadan": {
-      "index": 17,
+      "index": 16,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/cixizhadan/cixizhadan-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/cixizhadan/cixizhadan-audio-1.mp3",
@@ -285,7 +270,7 @@
       "isVip": false
     },
     "dagou": {
-      "index": 18,
+      "index": 17,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/dagou/dagou-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/dagou/dagou-audio-1.mp3",
@@ -301,7 +286,7 @@
       "isVip": false
     },
     "daitu": {
-      "index": 19,
+      "index": 18,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/daitu/daitu-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/daitu/daitu-audio-1.mp3"
@@ -316,7 +301,7 @@
       "isVip": false
     },
     "danzifd": {
-      "index": 20,
+      "index": 19,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/danzifd/danzifd-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/danzifd/danzifd-audio-1.mp3"
@@ -331,7 +316,7 @@
       "isVip": false
     },
     "daodun": {
-      "index": 21,
+      "index": 20,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/daodun/daodun-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/daodun/daodun-audio-1.mp3"
@@ -346,7 +331,7 @@
       "isVip": false
     },
     "denglizidawang": {
-      "index": 22,
+      "index": 21,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/denglizidawang/denglizidawang-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/denglizidawang/denglizidawang-audio-1.mp3",
@@ -364,7 +349,7 @@
       "isVip": false
     },
     "dingdongji": {
-      "index": 23,
+      "index": 22,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/dingdongji/dingdongji-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/dingdongji/dingdongji-audio-1.mp3",
@@ -385,7 +370,7 @@
       "isVip": false
     },
     "dream": {
-      "index": 24,
+      "index": 23,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/dream/dream-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/dream/dream-audio-1.mp3"
@@ -400,7 +385,7 @@
       "isVip": false
     },
     "dushen": {
-      "index": 25,
+      "index": 24,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/dushen/dushen-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/dushen/dushen-audio-1.mp3",
@@ -418,7 +403,7 @@
       "isVip": false
     },
     "fuheihui": {
-      "index": 26,
+      "index": 25,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/fuheihui/fuheihui-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/fuheihui/fuheihui-audio.mp3"
@@ -433,7 +418,7 @@
       "isVip": false
     },
     "gada": {
-      "index": 27,
+      "index": 26,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/gada/gada-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/gada/gada-audio-1.mp3"
@@ -448,7 +433,7 @@
       "isVip": false
     },
     "gangguan": {
-      "index": 28,
+      "index": 27,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/gangguan/gangguan-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/gangguan/gangguan-audio-1.mp3"
@@ -463,7 +448,7 @@
       "isVip": false
     },
     "ggdlx": {
-      "index": 29,
+      "index": 28,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/ggdlx/ggdlx-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/ggdlx/ggdlx-audio-1.mp3",
@@ -481,7 +466,7 @@
       "isVip": false
     },
     "gugugaga": {
-      "index": 30,
+      "index": 29,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/gugugaga/gugugaga-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/gugugaga/gugugaga-audio-1.mp3",
@@ -498,7 +483,7 @@
       "isVip": false
     },
     "haigongniu": {
-      "index": 31,
+      "index": 30,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/haigongniu/haigongniu-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/haigongniu/haigongniu-audio-1.mp3"
@@ -513,7 +498,7 @@
       "isVip": false
     },
     "hajimi": {
-      "index": 32,
+      "index": 31,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/hajimi/hajimi-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/hajimi/hajimi-audio-1.mp3",
@@ -529,7 +514,7 @@
       "isVip": false
     },
     "heishou": {
-      "index": 33,
+      "index": 32,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/heishou/heishou-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/heishou/heishou-audio-1.mp3",
@@ -545,7 +530,7 @@
       "isVip": false
     },
     "huicheng": {
-      "index": 34,
+      "index": 33,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/huicheng/huicheng-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/huicheng/huicheng-audio-1.mp3"
@@ -560,7 +545,7 @@
       "isVip": false
     },
     "jiguang": {
-      "index": 35,
+      "index": 34,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/jiguang/jiguang-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/jiguang/jiguang-audio-1.mp3"
@@ -575,7 +560,7 @@
       "isVip": false
     },
     "jvfufu": {
-      "index": 36,
+      "index": 35,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/jvfufu/jvfufu-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/jvfufu/jvfufu-audio-1.mp3"
@@ -590,7 +575,7 @@
       "isVip": false
     },
     "kai": {
-      "index": 37,
+      "index": 36,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/kai/kai-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/kai/kai-audio-1.mp3",
@@ -606,7 +591,7 @@
       "isVip": false
     },
     "kangshen": {
-      "index": 38,
+      "index": 37,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/kangshen/kangshen-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/kangshen/kangshen-audio-1.mp3",
@@ -627,7 +612,7 @@
       "isVip": false
     },
     "kenan": {
-      "index": 39,
+      "index": 38,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/kenan/kenan-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/kenan/kenan-audio.mp3"
@@ -642,7 +627,7 @@
       "isVip": false
     },
     "khdxs": {
-      "index": 40,
+      "index": 39,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/khdxs/khdxs-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/khdxs/khdxs-audio.mp3"
@@ -657,7 +642,7 @@
       "isVip": false
     },
     "kongcheng": {
-      "index": 41,
+      "index": 40,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/kongcheng/kongcheng-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/kongcheng/kongcheng-audio-1.mp3",
@@ -674,7 +659,7 @@
       "isVip": false
     },
     "kongqijita": {
-      "index": 42,
+      "index": 41,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/kongqijita/kongqijita-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/kongqijita/kongqijita-audio-1.mp3"
@@ -689,7 +674,7 @@
       "isVip": false
     },
     "kongqirinai": {
-      "index": 43,
+      "index": 42,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/kongqirinai/kongqirinai-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/kongqirinai/kongqirinai-audio-1.mp3",
@@ -712,7 +697,7 @@
       "isVip": false
     },
     "kunkun": {
-      "index": 44,
+      "index": 43,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/kunkun/kunkun-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/kunkun/kunkun-audio-1.mp3",
@@ -728,7 +713,7 @@
       "isVip": false
     },
     "laonainai": {
-      "index": 45,
+      "index": 44,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/laonainai/laonainai-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/laonainai/laonainai-audio-1.mp3",
@@ -744,7 +729,7 @@
       "isVip": false
     },
     "leitingdw": {
-      "index": 46,
+      "index": 45,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/leitingdw/leitingdw-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/leitingdw/leitingdw-audio-1.mp3"
@@ -759,7 +744,7 @@
       "isVip": false
     },
     "lightsaber": {
-      "index": 47,
+      "index": 46,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/lightsaber/lightsaber-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/lightsaber/lightsaber-audio.mp3"
@@ -774,7 +759,7 @@
       "isVip": false
     },
     "m16a4": {
-      "index": 48,
+      "index": 47,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/m16a4/m16a4-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/m16a4/m16a4-audio-1.mp3"
@@ -789,7 +774,7 @@
       "isVip": false
     },
     "magic": {
-      "index": 49,
+      "index": 48,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/magic/magic-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/magic/magic-audio.mp3"
@@ -804,7 +789,7 @@
       "isVip": false
     },
     "man": {
-      "index": 50,
+      "index": 49,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/man/man-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/man/man-audio-1.mp3",
@@ -820,7 +805,7 @@
       "isVip": false
     },
     "manbo": {
-      "index": 51,
+      "index": 50,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/manbo/manbo-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/manbo/manbo-audio-1.mp3",
@@ -836,7 +821,7 @@
       "isVip": false
     },
     "manboo": {
-      "index": 52,
+      "index": 51,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/manboo/manboo-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/manboo/manboo-audio-1.mp3",
@@ -852,7 +837,7 @@
       "isVip": false
     },
     "mc-anvil": {
-      "index": 53,
+      "index": 52,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-anvil/mc-anvil-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/mc-anvil/mc-anvil-audio-1.mp3",
@@ -868,7 +853,7 @@
       "isVip": false
     },
     "mc-bottle": {
-      "index": 54,
+      "index": 53,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-bottle/mc-bottle-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/mc-bottle/mc-bottle-audio-1.mp3",
@@ -884,7 +869,7 @@
       "isVip": false
     },
     "mc-chest": {
-      "index": 55,
+      "index": 54,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-chest/mc-chest-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/mc-chest/mc-chest-audio-1.mp3",
@@ -900,7 +885,7 @@
       "isVip": false
     },
     "mc-door": {
-      "index": 56,
+      "index": 55,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-door/mc-door-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/mc-door/mc-door-audio-1.mp3",
@@ -916,7 +901,7 @@
       "isVip": false
     },
     "mc-eat": {
-      "index": 57,
+      "index": 56,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-eat/mc-eat-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/mc-eat/mc-eat-audio-1.mp3",
@@ -932,7 +917,7 @@
       "isVip": false
     },
     "mc-fence-gate": {
-      "index": 58,
+      "index": 57,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-fence-gate/mc-fence-gate-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/mc-fence-gate/mc-fence-gate-audio-1.mp3",
@@ -948,7 +933,7 @@
       "isVip": false
     },
     "mc-hit": {
-      "index": 59,
+      "index": 58,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-hit/mc-hit-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/mc-hit/mc-hit-audio-1.mp3",
@@ -965,7 +950,7 @@
       "isVip": false
     },
     "mc-hit-old": {
-      "index": 60,
+      "index": 59,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-hit-old/mc-hit-old-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/mc-hit-old/mc-hit-old-audio-1.mp3"
@@ -980,7 +965,7 @@
       "isVip": false
     },
     "mc-shulker-box": {
-      "index": 61,
+      "index": 60,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-shulker-box/mc-shulker-box-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/mc-shulker-box/mc-shulker-box-audio-1.mp3",
@@ -996,7 +981,7 @@
       "isVip": false
     },
     "mc-spear": {
-      "index": 62,
+      "index": 61,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-spear/mc-spear-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/mc-spear/mc-spear-audio-1.mp3",
@@ -1012,7 +997,7 @@
       "isVip": false
     },
     "mc-tnt": {
-      "index": 63,
+      "index": 62,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-tnt/mc-tnt-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/mc-tnt/mc-tnt-audio-1.mp3",
@@ -1022,6 +1007,21 @@
       "description": "MCTNT",
       "category": "游戏",
       "author": "Mojang",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "playMode": 1,
+      "isVip": false
+    },
+    "mc-totem": {
+      "index": 63,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/mc-totem/mc-totem-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/mc-totem/mc-totem-audio-1.mp3"
+      ],
+      "name": "MC不死图腾",
+      "description": "超越生死",
+      "category": "游戏",
+      "author": "桦树abc",
       "vibrationDuration": 150,
       "debounceTime": 100,
       "playMode": 1,
