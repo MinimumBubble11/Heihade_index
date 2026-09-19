@@ -1,5 +1,5 @@
 /**
- * build-catalog.js — Heihade_index 索引生成脚本（v20260828：新增 7 MC 音效 + MC 作者改 Mojang 后触发） (v20260829: add saimaxiao/danzifd/dingdongji) (v20260919: add yingjichangkong) (v20260919: 分类重构为5类) (v20260919: 刀盾->抽象, MC不死图腾) (v20260919: busituteng->mc-totem)
+ * build-catalog.js — Heihade_index 索引生成脚本（v20260828：新增 7 MC 音效 + MC 作者改 Mojang 后触发） (v20260829: add saimaxiao/danzifd/dingdongji) (v20260919: add yingjichangkong) (v20260919: 分类重构为5类) (v20260919: 刀盾->抽象, MC不死图腾) (v20260919: busituteng->mc-totem) (v20260919: mc-totem author=Mojang)
  *
  * 功能：扫描音频仓库(Heihade_music)与图片仓库(Heihade_img)的 checkout 目录，
  *       解析各武器 <id>/dist.txt，校验资源一致性，生成 catalog.json。
