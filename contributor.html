@@ -69,9 +69,13 @@
       white-space: pre-wrap; margin-top: 10px;
     }
     .hint { font-size: 12px; color: #999; margin-top: 6px; line-height: 1.6; }
-    .steps { margin: 6px 0; padding-left: 18px; }
-    .steps li { margin-bottom: 8px; font-size: 14px; line-height: 1.6; }
-    .steps code { background: #eee; padding: 1px 6px; border-radius: 4px; font-size: 12px; color: #c0392b; }
+    .submit-text { font-size: 14px; line-height: 1.7; margin-bottom: 14px; }
+    .submit-text code { background: #eee; padding: 1px 6px; border-radius: 4px; font-size: 12px; color: #c0392b; }
+    .qr-wrap { display: flex; flex-direction: column; align-items: center; }
+    .qr-box { width: 132px; height: 132px; padding: 6px; background: #fff; border: 1px solid #ddd; border-radius: 8px; display: flex; align-items: center; justify-content: center; }
+    .qr-box img, .qr-box canvas { width: 120px !important; height: 120px !important; }
+    .qr-hint { font-size: 13px; color: #666; margin: 10px 0 4px; }
+    .qr-link { font-size: 12px; color: #128f6b; word-break: break-all; text-align: center; }
     .warn { color: #c0392b; }
     .toast {
       position: fixed; left: 50%; bottom: 30px; transform: translateX(-50%);
@@ -83,7 +87,7 @@
 </head>
 <body>
   <h1>🎵 嘿哈嘚 音效贡献工具</h1>
-  <p class="intro">填写音效信息、上传音频，本工具会自动生成规范命名的文件并打包成 zip。解压后按底部指引传到对应仓库，管理员审核通过即可让所有用户下载。</p>
+  <p class="intro">填写音效信息、上传音频，本工具会自动生成规范命名的文件并打包成 zip。把 zip 发送到 QQ 群，管理员会统一整理上传，通过后所有用户即可下载。</p>
 
   <div class="card">
     <h2>1️⃣ 音效信息</h2>
@@ -105,12 +109,11 @@
       <div>
         <label>分类</label>
         <select id="fCategory">
-          <option value="武器">武器</option>
-          <option value="动漫">动漫</option>
-          <option value="热梗">热梗</option>
-          <option value="手势">手势</option>
-          <option value="搞怪">搞怪</option>
-          <option value="其他">其他</option>
+          <option value="二次元">二次元</option>
+          <option value="抽象">抽象</option>
+          <option value="搞笑">搞笑</option>
+          <option value="战斗">战斗</option>
+          <option value="游戏">游戏</option>
         </select>
       </div>
       <div>
@@ -154,20 +157,21 @@
   <button class="btn primary" id="btnZip">⬇️ 下载打包 zip</button>
 
   <div class="card">
-    <h2>4️⃣ 上传指引</h2>
-    <ol class="steps">
-      <li>解压下载的 <code>&lt;id&gt;.zip</code>，得到 <code>Heihade_music/&lt;id&gt;/</code> 和 <code>Heihade_img/&lt;id&gt;/</code> 两个文件夹。</li>
-      <li>进入 <a href="https://github.com/MinimumBubble11/Heihade_music" target="_blank">Heihade_music 仓库</a> → <code>Add file</code> → <code>Upload files</code>，拖入 <code>Heihade_music/&lt;id&gt;/</code> 整个文件夹。</li>
-      <li>（若选了图标）进入 <a href="https://github.com/MinimumBubble11/Heihade_img" target="_blank">Heihade_img 仓库</a> → <code>Add file</code> → <code>Upload files</code>，拖入 <code>Heihade_img/&lt;id&gt;/</code> 整个文件夹。</li>
-      <li>提交后等待索引自动更新（每 2 小时重建一次），所有用户即可在手表「联网下载」中看到该音效。</li>
-    </ol>
-    <p class="hint">⚠️ 提交前请确认：音频为 <span class="warn">mp3</span> 格式、命名与 <code>dist.txt</code> 一致；发布后 ID 不可随意修改，否则已下载用户将失效。</p>
+    <h2>4️⃣ 提交方式</h2>
+    <p class="submit-text">把下载的 <code>&lt;id&gt;.zip</code> 压缩包发送到 <b>QQ 群</b>，管理员会统一整理上传。</p>
+    <div class="qr-wrap">
+      <div class="qr-box" id="qqQrcode"></div>
+      <p class="qr-hint">扫码加入 QQ 群</p>
+      <a class="qr-link" href="https://qm.qq.com/q/QfvpeDee4i" target="_blank" rel="noopener">https://qm.qq.com/q/QfvpeDee4i</a>
+    </div>
+    <p class="hint">⚠️ 提交前请确认：音频为 <span class="warn">mp3</span> 格式；发布后 ID 不可随意修改，否则已下载用户将失效。</p>
   </div>
 
   <div class="footer">嘿哈嘚 音效贡献工具 · 纯本地生成，不上传任何数据</div>
   <div class="toast" id="toast"></div>
 
   <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
   <script>
     (function () {
       'use strict'
@@ -320,6 +324,18 @@
       })
 
       refresh()
+
+      // 生成 QQ 群二维码（若库加载失败，下方链接仍可点击加群）
+      try {
+        if (typeof QRCode !== 'undefined' && $('qqQrcode')) {
+          new QRCode($('qqQrcode'), {
+            text: 'https://qm.qq.com/q/QfvpeDee4i',
+            width: 120,
+            height: 120,
+            correctLevel: QRCode.CorrectLevel.M
+          })
+        }
+      } catch (e) { console.error('二维码生成失败', e) }
     })()
   </script>
 </body>
