@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-02T06:10:07.588Z",
+  "version": "2026-10-02T06:11:47.354Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -1842,10 +1842,7 @@
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yudazui/yudazui-audio-1.mp3",
         "https://MinimumBubble11.github.io/Heihade_music/yudazui/yudazui-audio-2.mp3",
-        "https://MinimumBubble11.github.io/Heihade_music/yudazui/yudazui-audio-3.mp3",
-        "https://MinimumBubble11.github.io/Heihade_music/yudazui/yudazui-audio-4.mp3",
-        "https://MinimumBubble11.github.io/Heihade_music/yudazui/yudazui-audio-5.mp3",
-        "https://MinimumBubble11.github.io/Heihade_music/yudazui/yudazui-audio-6.mp3"
+        "https://MinimumBubble11.github.io/Heihade_music/yudazui/yudazui-audio-3.mp3"
       ],
       "name": "余大嘴",
       "description": "恶搞 搞怪",
