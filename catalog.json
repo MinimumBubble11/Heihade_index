@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-03T00:46:37.166Z",
+  "version": "2026-10-03T06:01:09.664Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -33,7 +33,7 @@
     },
     "aiyouwuqu": {
       "index": 2,
-      "iconUrl": "",
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/aiyouwuqu/aiyouwuqu-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/aiyouwuqu/aiyouwuqu-audio.mp3"
       ],
