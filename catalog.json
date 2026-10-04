@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-04T07:29:12.992Z",
+  "version": "2026-10-04T12:02:49.498Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -1729,8 +1729,24 @@
       "playMode": 1,
       "isVip": false
     },
-    "xinzhigang": {
+    "xiaohaige": {
       "index": 109,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xiaohaige/xiaohaige-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/xiaohaige/xiaohaige-audio-1.mp3",
+        "https://MinimumBubble11.github.io/Heihade_music/xiaohaige/xiaohaige-audio-2.mp3"
+      ],
+      "name": "在央视耍起的小孩哥",
+      "description": "在央视耍起的小孩哥",
+      "category": "抽象",
+      "author": "TPRO",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "playMode": 1,
+      "isVip": false
+    },
+    "xinzhigang": {
+      "index": 110,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xinzhigang/xinzhigang-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/xinzhigang/xinzhigang-audio-1.mp3"
@@ -1745,7 +1761,7 @@
       "isVip": false
     },
     "xiongda-bengzhu": {
-      "index": 110,
+      "index": 111,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xiongda-bengzhu/xiongda-bengzhu-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/xiongda-bengzhu/xiongda-bengzhu-audio-1.mp3"
@@ -1760,7 +1776,7 @@
       "isVip": false
     },
     "xiongda-laugh": {
-      "index": 111,
+      "index": 112,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xiongda-laugh/xiongda-laugh-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/xiongda-laugh/xiongda-laugh-audio-1.mp3"
@@ -1775,7 +1791,7 @@
       "isVip": false
     },
     "yemen": {
-      "index": 112,
+      "index": 113,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yemen/yemen-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yemen/yemen-audio-1.mp3",
@@ -1792,7 +1808,7 @@
       "isVip": false
     },
     "yingjichangkong": {
-      "index": 113,
+      "index": 114,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yingjichangkong/yingjichangkong-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yingjichangkong/yingjichangkong-audio-1.mp3"
@@ -1807,7 +1823,7 @@
       "isVip": false
     },
     "yiyi": {
-      "index": 114,
+      "index": 115,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yiyi/yiyi-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yiyi/yiyi-audio-1.mp3"
@@ -1822,7 +1838,7 @@
       "isVip": false
     },
     "yudazui": {
-      "index": 115,
+      "index": 116,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yudazui/yudazui-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yudazui/yudazui-audio-1.mp3",
@@ -1839,7 +1855,7 @@
       "isVip": false
     },
     "yujie": {
-      "index": 116,
+      "index": 117,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yujie/yujie-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yujie/yujie-audio-1.mp3"
@@ -1854,7 +1870,7 @@
       "isVip": false
     },
     "yztf": {
-      "index": 117,
+      "index": 118,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yztf/yztf-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yztf/yztf-audio-1.mp3",
@@ -1873,7 +1889,7 @@
       "isVip": false
     },
     "zaihuoyh": {
-      "index": 118,
+      "index": 119,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zaihuoyh/zaihuoyh-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zaihuoyh/zaihuoyh-audio-1.mp3",
@@ -1890,7 +1906,7 @@
       "isVip": false
     },
     "zaiqi": {
-      "index": 119,
+      "index": 120,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zaiqi/zaiqi-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zaiqi/zaiqi-audio-1.mp3",
@@ -1907,7 +1923,7 @@
       "isVip": false
     },
     "zhangxuef": {
-      "index": 120,
+      "index": 121,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhangxuef/zhangxuef-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhangxuef/zhangxuef-audio-1.mp3",
@@ -1924,7 +1940,7 @@
       "isVip": false
     },
     "zhemehaodec": {
-      "index": 121,
+      "index": 122,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhemehaodec/zhemehaodec-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhemehaodec/zhemehaodec-audio-1.mp3",
@@ -1940,7 +1956,7 @@
       "isVip": false
     },
     "zhencha": {
-      "index": 122,
+      "index": 123,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhencha/zhencha-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhencha/zhencha-audio-1.mp3",
@@ -1959,7 +1975,7 @@
       "isVip": false
     },
     "zhengbang": {
-      "index": 123,
+      "index": 124,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhengbang/zhengbang-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhengbang/zhengbang-audio-1.mp3"
@@ -1974,7 +1990,7 @@
       "isVip": false
     },
     "zhuzhil": {
-      "index": 124,
+      "index": 125,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhuzhil/zhuzhil-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhuzhil/zhuzhil-audio-1.mp3"
@@ -1989,7 +2005,7 @@
       "isVip": false
     },
     "ziwengt": {
-      "index": 125,
+      "index": 126,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/ziwengt/ziwengt-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/ziwengt/ziwengt-audio-1.mp3"
