@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-15T12:54:05.668Z",
+  "version": "2026-10-15T14:09:27.656Z",
   "weapons": {
     "aiyintangku": {
       "index": 0,
@@ -1731,8 +1731,23 @@
       "playMode": 1,
       "isVip": false
     },
-    "weilongc4": {
+    "wbmb": {
       "index": 109,
+      "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/wbmb/wbmb-icon.png",
+      "audioUrls": [
+        "https://MinimumBubble11.github.io/Heihade_music/wbmb/wbmb-audio.mp3"
+      ],
+      "name": "我不明白",
+      "description": "我不明白鬼畜抽象",
+      "category": "搞笑",
+      "author": "常凯申",
+      "vibrationDuration": 150,
+      "debounceTime": 100,
+      "playMode": 1,
+      "isVip": false
+    },
+    "weilongc4": {
+      "index": 110,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/weilongc4/weilongc4-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/weilongc4/weilongc4-audio-1.mp3"
@@ -1747,7 +1762,7 @@
       "isVip": false
     },
     "wo": {
-      "index": 110,
+      "index": 111,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/wo/wo-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/wo/wo-audio-1.mp3",
@@ -1763,7 +1778,7 @@
       "isVip": false
     },
     "wooden-fish": {
-      "index": 111,
+      "index": 112,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/wooden-fish/wooden-fish-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/wooden-fish/wooden-fish-audio-1.mp3"
@@ -1778,7 +1793,7 @@
       "isVip": false
     },
     "wubiand": {
-      "index": 112,
+      "index": 113,
       "iconUrl": "",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/wubiand/wubiand-audio-1.mp3"
@@ -1793,7 +1808,7 @@
       "isVip": false
     },
     "wula": {
-      "index": 113,
+      "index": 114,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/wula/wula-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/wula/wula-audio.mp3"
@@ -1808,7 +1823,7 @@
       "isVip": false
     },
     "wusaqi": {
-      "index": 114,
+      "index": 115,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/wusaqi/wusaqi-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/wusaqi/wusaqi-audio.mp3"
@@ -1823,7 +1838,7 @@
       "isVip": false
     },
     "wutiaowu": {
-      "index": 115,
+      "index": 116,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/wutiaowu/wutiaowu-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/wutiaowu/wutiaowu-audio.mp3"
@@ -1838,7 +1853,7 @@
       "isVip": false
     },
     "xeggt": {
-      "index": 116,
+      "index": 117,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xeggt/xeggt-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/xeggt/xeggt-audio-1.mp3",
@@ -1854,7 +1869,7 @@
       "isVip": false
     },
     "xiangji": {
-      "index": 117,
+      "index": 118,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xiangji/xiangji-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/xiangji/xiangji-audio.mp3"
@@ -1869,7 +1884,7 @@
       "isVip": false
     },
     "xiangzhi": {
-      "index": 118,
+      "index": 119,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xiangzhi/xiangzhi-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/xiangzhi/xiangzhi-audio.mp3"
@@ -1884,7 +1899,7 @@
       "isVip": false
     },
     "xiaohaige": {
-      "index": 119,
+      "index": 120,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xiaohaige/xiaohaige-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/xiaohaige/xiaohaige-audio-1.mp3",
@@ -1900,7 +1915,7 @@
       "isVip": false
     },
     "xinzhigang": {
-      "index": 120,
+      "index": 121,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xinzhigang/xinzhigang-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/xinzhigang/xinzhigang-audio-1.mp3"
@@ -1915,7 +1930,7 @@
       "isVip": false
     },
     "xiongda-bengzhu": {
-      "index": 121,
+      "index": 122,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xiongda-bengzhu/xiongda-bengzhu-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/xiongda-bengzhu/xiongda-bengzhu-audio-1.mp3"
@@ -1930,7 +1945,7 @@
       "isVip": false
     },
     "xiongda-laugh": {
-      "index": 122,
+      "index": 123,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/xiongda-laugh/xiongda-laugh-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/xiongda-laugh/xiongda-laugh-audio-1.mp3"
@@ -1945,7 +1960,7 @@
       "isVip": false
     },
     "yemen": {
-      "index": 123,
+      "index": 124,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yemen/yemen-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yemen/yemen-audio-1.mp3",
@@ -1962,7 +1977,7 @@
       "isVip": false
     },
     "yingjichangkong": {
-      "index": 124,
+      "index": 125,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yingjichangkong/yingjichangkong-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yingjichangkong/yingjichangkong-audio-1.mp3"
@@ -1977,7 +1992,7 @@
       "isVip": false
     },
     "yiyi": {
-      "index": 125,
+      "index": 126,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yiyi/yiyi-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yiyi/yiyi-audio-1.mp3"
@@ -1992,7 +2007,7 @@
       "isVip": false
     },
     "yudazui": {
-      "index": 126,
+      "index": 127,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yudazui/yudazui-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yudazui/yudazui-audio-1.mp3",
@@ -2009,7 +2024,7 @@
       "isVip": false
     },
     "yujie": {
-      "index": 127,
+      "index": 128,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yujie/yujie-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yujie/yujie-audio-1.mp3"
@@ -2024,7 +2039,7 @@
       "isVip": false
     },
     "yztf": {
-      "index": 128,
+      "index": 129,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/yztf/yztf-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/yztf/yztf-audio-1.mp3",
@@ -2043,7 +2058,7 @@
       "isVip": false
     },
     "zaihuoyh": {
-      "index": 129,
+      "index": 130,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zaihuoyh/zaihuoyh-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zaihuoyh/zaihuoyh-audio-1.mp3",
@@ -2060,7 +2075,7 @@
       "isVip": false
     },
     "zaiqi": {
-      "index": 130,
+      "index": 131,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zaiqi/zaiqi-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zaiqi/zaiqi-audio-1.mp3",
@@ -2077,7 +2092,7 @@
       "isVip": false
     },
     "zhangxuef": {
-      "index": 131,
+      "index": 132,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhangxuef/zhangxuef-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhangxuef/zhangxuef-audio-1.mp3",
@@ -2094,7 +2109,7 @@
       "isVip": false
     },
     "zhemehaodec": {
-      "index": 132,
+      "index": 133,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhemehaodec/zhemehaodec-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhemehaodec/zhemehaodec-audio-1.mp3",
@@ -2110,7 +2125,7 @@
       "isVip": false
     },
     "zhencha": {
-      "index": 133,
+      "index": 134,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhencha/zhencha-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhencha/zhencha-audio-1.mp3",
@@ -2129,7 +2144,7 @@
       "isVip": false
     },
     "zhengbang": {
-      "index": 134,
+      "index": 135,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhengbang/zhengbang-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhengbang/zhengbang-audio-1.mp3"
@@ -2144,7 +2159,7 @@
       "isVip": false
     },
     "zhongdajiang": {
-      "index": 135,
+      "index": 136,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhongdajiang/zhongdajiang-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhongdajiang/zhongdajiang-audio-1.mp3",
@@ -2160,7 +2175,7 @@
       "isVip": false
     },
     "zhuzhil": {
-      "index": 136,
+      "index": 137,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/zhuzhil/zhuzhil-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/zhuzhil/zhuzhil-audio-1.mp3"
@@ -2175,7 +2190,7 @@
       "isVip": false
     },
     "ziwengt": {
-      "index": 137,
+      "index": 138,
       "iconUrl": "https://MinimumBubble11.github.io/Heihade_img/ziwengt/ziwengt-icon.png",
       "audioUrls": [
         "https://MinimumBubble11.github.io/Heihade_music/ziwengt/ziwengt-audio-1.mp3"
