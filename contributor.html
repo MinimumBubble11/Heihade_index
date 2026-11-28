@@ -146,7 +146,6 @@
     <label>选择图标（可选）</label>
     <input type="file" id="fIcon" accept="image/*" />
     <div class="file-list" id="iconPreview"></div>
-    <div class="hint">音频、图片格式均不限（jpg/webp/wav/m4a 都行），后台会统一转码压缩。</div>
   </div>
 
   <div class="card">
@@ -181,9 +180,9 @@
   <div class="footer">嘿哈嘚 音效贡献工具 · 纯本地生成，不上传任何数据</div>
   <div class="toast" id="toast"></div>
 
-  <script src="lib/pinyin-pro.min.js"></script>
-  <script src="lib/jszip.min.js"></script>
-  <script src="lib/qrcode.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/pinyin-pro@3.27.0/dist/index.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
   <script>
     (function () {
       'use strict'
@@ -268,7 +267,7 @@
           var div = document.createElement('div')
           div.className = 'file-item'
           div.innerHTML =
-            '<span class="fname renamed">' + audioFileName(sanitizeId($('fId').value) || 'id', i, audioItems.length) + '</span>' +
+            '<span class="fname">' + (item.file.name || '未命名') + '</span>' +
             '<span class="fsize">' + fmtSize(item.file.size) + '</span>' +
             '<button class="btn mini up" data-i="' + i + '" data-a="up">↑</button>' +
             '<button class="btn mini down" data-i="' + i + '" data-a="down">↓</button>' +
@@ -281,7 +280,7 @@
         var box = $('iconPreview')
         if (!iconFile) { box.innerHTML = ''; return }
         var badge = isPng(iconFile) ? '' : ' <span class="fsize">→ PNG</span>'
-        box.innerHTML = '<div class="file-item"><span class="fname renamed">' + (sanitizeId($('fId').value) || 'id') + '-icon.png</span><span class="fsize">' + fmtSize(iconFile.size) + '</span>' + badge + '</div>'
+        box.innerHTML = '<div class="file-item"><span class="fname">' + (iconFile.name || '未命名') + '</span><span class="fsize">' + fmtSize(iconFile.size) + '</span>' + badge + '</div>'
       }
 
       function buildDist() {
