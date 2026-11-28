@@ -107,7 +107,7 @@
         <input type="number" id="fCount" value="1" min="1" max="8" />
         <div class="hint">1=单段；&gt;1=多段连招。</div>
       </div>
-      <div>
+      <div id="fModeWrap" style="display:none">
         <label>播放模式</label>
         <select id="fMode">
           <option value="1">1 轮播</option>
@@ -136,8 +136,6 @@
     </div>
     <label>描述（可选）</label>
     <input type="text" id="fDesc" placeholder="一句话介绍该音效" />
-    <label>触发参数（可选）</label>
-    <input type="text" id="fTrig" placeholder="如 150,100（震动,冷却）" />
   </div>
 
   <div class="card">
@@ -296,7 +294,7 @@
           $('fDesc').value.trim() || '',
           $('fCategory').value,
           $('fAuthor').value.trim() || '热心用户',
-          ($('fTrig').value.trim() || '150,100'),
+          '0,0', // 震动/冷却由 App 端自动计算
           $('fMode').value || '1'
         ]
         return lines.join('\n')
@@ -309,6 +307,11 @@
       function refresh() {
         // ID 自动跟随标题（无需用户填写）
         $('fId').value = autoId($('fName').value)
+        // 播放模式仅在音效数为 2（Combo 1,1,1,2）时可选
+        var cnt = parseInt($('fCount').value, 10) || 0
+        var showMode = cnt === 2
+        $('fModeWrap').style.display = showMode ? '' : 'none'
+        if (!showMode) $('fMode').value = '1'
         renderAudioList()
         renderIconPreview()
         renderDist()
@@ -346,7 +349,7 @@
         refresh()
       })
 
-      ;['fName', 'fCount', 'fDesc', 'fCategory', 'fAuthor', 'fTrig', 'fMode'].forEach(function (id) {
+      ;['fName', 'fCount', 'fDesc', 'fCategory', 'fAuthor', 'fMode'].forEach(function (id) {
         if (!$(id)) return
         $(id).addEventListener('input', refresh)
         $(id).addEventListener('change', refresh)
