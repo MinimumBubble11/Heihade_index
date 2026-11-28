@@ -71,6 +71,10 @@
     .file-item .fname { flex: 1; word-break: break-all; }
     .file-item .fname.renamed { color: #128f6b; font-family: Consolas, monospace; }
     .file-item .fsize { color: #999; font-size: 12px; }
+    .file-item .drag-handle { color: #b0b7bf; font-size: 15px; line-height: 1; cursor: grab; user-select: none; -webkit-user-select: none; padding-right: 2px; touch-action: none; }
+    .file-item.drag-ghost { opacity: .35; background: #eef5ff; }
+    .file-item.drag-chosen { box-shadow: 0 3px 10px rgba(0,0,0,.12); }
+    .file-list.drag-active .file-item { transition: transform .15s ease; }
     .preview {
       background: #1e1e1e; color: #7ee787; padding: 12px; border-radius: 8px;
       font-family: Consolas, Menlo, monospace; font-size: 13px; line-height: 1.7;
@@ -142,6 +146,7 @@
     <h2>2️⃣ 音频与图标</h2>
     <label>选择音频文件（可多选，顺序=播放顺序）</label>
     <input type="file" id="fAudio" accept="audio/*,.mp3,.m4a,.wav,.flac,.aac,.ogg,.opus" multiple />
+    <div class="hint" id="dragHint" style="display:none">💡 长按音频即可调整顺序</div>
     <div class="file-list" id="audioList"></div>
     <label>选择图标（可选）</label>
     <input type="file" id="fIcon" accept="image/*" />
@@ -180,6 +185,7 @@
   <div class="footer">嘿哈嘚 音效贡献工具 · 纯本地生成，不上传任何数据</div>
   <div class="toast" id="toast"></div>
 
+  <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.6/Sortable.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/pinyin-pro@3.27.0/dist/index.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
@@ -267,10 +273,9 @@
           var div = document.createElement('div')
           div.className = 'file-item'
           div.innerHTML =
+            '<span class="drag-handle" title="长按拖动排序">☰</span>' +
             '<span class="fname">' + (item.file.name || '未命名') + '</span>' +
             '<span class="fsize">' + fmtSize(item.file.size) + '</span>' +
-            '<button class="btn mini up" data-i="' + i + '" data-a="up">↑</button>' +
-            '<button class="btn mini down" data-i="' + i + '" data-a="down">↓</button>' +
             '<button class="btn mini del" data-i="' + i + '" data-a="del">✕</button>'
           box.appendChild(div)
         })
@@ -314,6 +319,10 @@
         renderAudioList()
         renderIconPreview()
         renderDist()
+        // 多个音频时才提示拖动排序
+        var hint = $('dragHint')
+        if (hint) hint.style.display = audioItems.length > 1 ? '' : 'none'
+        initSortable()
       }
 
       // 事件绑定
@@ -334,19 +343,36 @@
       })
 
       $('audioList').addEventListener('click', function (e) {
-        var btn = e.target.closest('.btn.mini')
+        var btn = e.target.closest('.btn.mini.del')
         if (!btn) return
         var i = parseInt(btn.getAttribute('data-i'), 10)
-        var a = btn.getAttribute('data-a')
-        if (a === 'up' && i > 0) {
-          var t = audioItems[i - 1]; audioItems[i - 1] = audioItems[i]; audioItems[i] = t
-        } else if (a === 'down' && i < audioItems.length - 1) {
-          var u = audioItems[i + 1]; audioItems[i + 1] = audioItems[i]; audioItems[i] = u
-        } else if (a === 'del') {
-          audioItems.splice(i, 1)
-        }
+        audioItems.splice(i, 1)
+        if (audioItems.length) $('fCount').value = audioItems.length
         refresh()
       })
+
+      // 长按拖动排序（SortableJS；鼠标/触摸均需长按约 280ms）
+      var audioSortable = null
+      function initSortable() {
+        if (typeof Sortable === 'undefined' || !$('audioList')) return
+        if (audioSortable) { try { audioSortable.destroy() } catch (err) {} }
+        audioSortable = new Sortable($('audioList'), {
+          animation: 150,
+          delay: 400,
+          delayOnTouchOnly: true,     // 仅触摸端需长按；鼠标端可直接拖
+          touchStartThreshold: 4,
+          ghostClass: 'drag-ghost',
+          chosenClass: 'drag-chosen',
+          filter: '.btn.mini',
+          preventOnFilter: false,
+          onEnd: function (evt) {
+            if (evt.oldIndex === evt.newIndex) return
+            var moved = audioItems.splice(evt.oldIndex, 1)[0]
+            audioItems.splice(evt.newIndex, 0, moved)
+            setTimeout(refresh, 0)
+          }
+        })
+      }
 
       ;['fName', 'fCount', 'fDesc', 'fCategory', 'fAuthor', 'fMode'].forEach(function (id) {
         if (!$(id)) return
